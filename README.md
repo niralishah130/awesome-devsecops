@@ -58,6 +58,7 @@ Many talks are now targeting the change of adding Security into the DevOps envir
 * [Security DevOps - staying secure in agile projects](https://christian-schneider.net/slides/OWASP-AppSecEU-2015_SecDevOps.pdf)
 * [Veracode's Defending the Cloud from a Full Stack Hack](https://www.rsaconference.com/writable/presentations/file_upload/csv-w03-_defending-the-cloud-from-the-full-stack-hack.pdf)
 * [Put Your Robots to Work: Security Automation at Twitter](https://vimeo.com/54250716)
+* [Automated DevSecOps for Gov on Azure](https://www.youtube.com/watch?v=MtL8vJIBx5M) 
 
 
 ## Initiatives
